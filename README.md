@@ -16,9 +16,6 @@ Today, we're at the dawn of a new era with blockchains and Web3. Like the Intern
 
 The journey through the waves of the cryptographic revolution is ongoing. With public-key cryptography and blockchains marking the first and second waves, we now face the third: the ZK Revolution. Coupled with Web3, the ZK Revolution is set to redefine our collective future, standing as testament to technology's power to unlock personal freedom.
 
-## The ZK Revolution
-
-![ZK Revolution](zk-revolution.jpeg)
 
 "ZK" is a term with two meanings. Initially, it stood for "Zero-Knowledge (Proofs)", or, if you insist, "Zipped by Kryptography" [^2]. Today, "ZK" embodies a certain bigger idea, encapsulated in three properties: Integrity, Privacy, and Magic.
 
